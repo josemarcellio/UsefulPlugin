@@ -1,0 +1,4 @@
+name: UsefulPlugin
+main: com.josemarcellio.usefulplugin.UsefulPlugin
+version: 1.0
+author: JoseMarcellio
